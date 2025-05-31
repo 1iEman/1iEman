@@ -31,7 +31,7 @@ Currently, I'm working with Apache Airflow to automate ETL pipelines, collecting
 ---
 ### 📫 Connect With Me
  
-- 💬 Reach me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/eman-al-hajri)  
+- 💬 Reach me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eman-al-hajri/)
 - 📧 Email me at [![Outlook](https://img.shields.io/badge/Outlook-0078D4?logo=microsoft-outlook&logoColor=white)](mailto:emaanhajri@gmail.com)
 
 
