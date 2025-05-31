@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20and%20data%20Science%20Specialist;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
----
+
 
 ### 👩‍💻 About Me
 
@@ -19,6 +19,7 @@ I'm proud to be developing the first Omani AI system dedicated to detecting and 
 Currently, I'm working with Apache Airflow to automate ETL pipelines, integrating data from MySQL into Power BI for end-to-end data analysis and visualization. I'm also applying pre-trained YOLOv8 models for waste detection and classification in Oman.
 
 ---
+
 ### 📫 Connect With Me
  
 - 💬 Reach me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/eman-al-hajri)  
