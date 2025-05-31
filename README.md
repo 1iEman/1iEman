@@ -21,7 +21,7 @@ Currently, I'm working with Apache Airflow to automate ETL pipelines, collecting
 ---
 ### What I do 
 
-- Collect and integrate data from various sources using APIs
+- Collect and integrate data from various sources using APIs and web scraping.
 - Design and implement ETL pipelines to process and organize data efficiently ising data engineering tools like Apache Airflow
 - Manage and query databases using MySQL 
 - Clean and preprocess data using Python libraries   
