@@ -10,6 +10,8 @@
 
 ### 👩‍💻 About Me
 
+I'm an AI and Data Science Specialist with a strong passion for Computer Vision and Natural Language Processing.
+
 I actively explore a wide range of machine learning and deep learning techniques to solve real-world challenges in Oman — including Convolutional Neural Networks (CNNs) and few-shot Learning (FSL) for image classification, YOLOv8 for real-time object detection, Named Entity Recognition (NER) for natural language understanding, and clustering algorithms like K-Means and K-Nearest Neighbors (k-NN) for pattern discovery and classification.
 
 Over the years, I've developed a solid understanding of the end-to-end process of building AI models — from data collection and preprocessing, to model training, evaluation, and deployment.
@@ -19,7 +21,16 @@ I'm proud to be developing the first Omani AI system dedicated to detecting and 
 Currently, I'm working with Apache Airflow to automate ETL pipelines, integrating data from MySQL into Power BI for end-to-end data analysis and visualization. I'm also applying pre-trained YOLOv8 models for waste detection and classification in Oman.
 
 ---
+### What I do 
 
+- Collect and integrate data from various sources using APIs
+- Design and implement ETL pipelines to process and organize data efficiently, while exploring tools in data engineering
+- Manage and query databases using MySQL 
+- Clean and preprocess data using Python libraries such as Pandas and numPy  
+- Train AI models for specific tasks using machine learning and deep learning techniques
+- Visualize data and model results using Matplotlib python, Power BI, or Apache Superset on Linux
+
+---
 ### 📫 Connect With Me
  
 - 💬 Reach me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/eman-al-hajri)  
