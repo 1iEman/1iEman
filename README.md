@@ -16,13 +16,11 @@ Over the years, I've developed a solid understanding of the end-to-end process o
 
 I'm proud to be developing the first Omani AI system dedicated to detecting and classifying wildlife species in Oman Utilizing Few-Shot learning techniques and Mega-detector tool built on YOLO architecture.
 
-Currently, I'm working with Apache Airflow to automate ETL pipelines, collecting data from API, integrating data from MySQL into Power BI for end-to-end data analysis and visualization. I also trained Yolov8 model for waste detection and classification in Oman.
-
 ---
 ### What I do 
 
 - Collect and integrate data from various sources using APIs and web scraping
-- Design and implement ETL pipelines to process and organize data efficiently ising data engineering tools like Apache Airflow
+- Design and implement ETL pipelines to process and organize data efficiently using data engineering tools like Apache Airflow
 - Manage and query databases using MySQL 
 - Clean and preprocess data using Python libraries   
 - Train and fine-tune AI models for specific tasks using machine learning and deep learning techniques
