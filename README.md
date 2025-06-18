@@ -25,12 +25,12 @@ I'm proud to be developing the first Omani AI system dedicated to detecting and 
 
 ### What I do 
 
-- Collect and integrate data from various sources using APIs and web scraping
-- Design and implement ETL pipelines to process and organize data efficiently using data engineering tools like Apache Airflow
-- Manage and query databases using MySQL 
-- Clean and preprocess data using Python libraries   
-- Train and fine-tune AI models for specific tasks using machine learning and deep learning techniques
-- Visualize data and model results using Matplotlib python, Power BI, or Apache Superset on Linux
+- Collect and integrate data from various sources using APIs and web scraping.
+- Design and implement ETL pipelines to process and organize data efficiently using data engineering tools like Apache Airflow.
+- Manage and query databases using MySQL. 
+- Clean and preprocess data using Python libraries.
+- Train and fine-tune AI models for specific tasks using machine learning and deep learning techniques.
+- Visualize data and model results using Matplotlib python, Power BI, or Apache Superset on Linux.
 
 ---
 ### 📫 Connect With Me
